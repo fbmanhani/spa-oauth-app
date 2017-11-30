@@ -1,0 +1,5 @@
+okta:
+ oauth2:
+   # Client ID from above step
+   clientId: 0oad30t7lqGOSaKSt0h7
+   issuer: https://dev-532497.oktapreview.com/oauth2/default
